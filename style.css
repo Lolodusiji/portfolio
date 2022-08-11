@@ -910,6 +910,24 @@ button>a:active {
     #contact > div.sec3 > span{
         width:70px;
     }
+    .input1{
+        width:90%;
+    }
+    .inpt-flex{
+        width:90%;
+    }
+    .input3{
+        width:90%;
+    }
+    .textarea{
+        width:90%;
+    }
+    #contact > div.textt > p{
+        width:81vw;
+    }
+    #contact > div.sec3 > h1{
+        font-size: 7vw;
+    }
 }
 
 @media screen and (max-width:400px){
