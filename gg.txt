@@ -1,0 +1,21 @@
+ <h2> Card Details</h2>
+                    <p>HTML</p>
+                    <p>CSS</p>
+                    <p>JS</p>
+
+                    
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    margin-top: 12.5rem;
+    background: transparent;
+    font-size: 20px;
+
+    https://twitter.com/shortgirlintech?t=_QBVNzXIsC86-NFKEwLZpA&s=09
+
+    
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    cursor: pointer;
+}
