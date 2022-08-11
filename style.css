@@ -890,7 +890,10 @@ button>a:active {
         right: 0;
     }
 
-
+    .inpt-flex{
+        flex-direction:column;
+        width: 100%;
+    }
     
 
 }
@@ -911,16 +914,16 @@ button>a:active {
         width:70px;
     }
     .input1{
-        width:90%;
+        width:80%;
     }
     .inpt-flex{
-        width:90%;
+        /* width:80%; */
     }
     .input3{
-        width:90%;
+        width:80%;
     }
     .textarea{
-        width:90%;
+        width:80%;
     }
     #contact > div.textt > p{
         width:81vw;
