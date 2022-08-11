@@ -662,6 +662,11 @@ button>a:active {
     top: 2px;
 }
 
+.group5{
+    background:url(./Colored\ Shapes\ 2.svg);
+    background-size: cover;
+}
+
 .group5>button {
     display: flex;
     align-items: center;
