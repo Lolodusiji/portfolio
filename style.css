@@ -5,6 +5,22 @@
     scroll-behavior: smooth;
 }
 
+/* @keyframes pageBackgroundChange {
+    0% {
+      background-color: #ff5733; /* Start color */
+    /* } */
+    /* 50% { */
+      /* background-color: #33ff57; Midway color */
+    /* } */
+    /* 100% { */
+      /* background-color: #5733ff; End color */
+    /* } */
+  /* } */
+
+  /* body { */
+    /* animation: pageBackgroundChange 5s infinite; */
+  /* } */ */
+
 ::-webkit-scrollbar {
     width: 15px;
 }
@@ -27,6 +43,10 @@ body {
     display: grid;
     place-items: center;
 }
+
+/* .section1 h1 {
+    animation: fadeIn 1s ease-in-out;
+} */
 
 .group1 {
     width: 100%;
@@ -441,7 +461,7 @@ body>div>div>div.section3>h1 {
     border-radius: 4px;
     padding: 9px 15px;
     font-weight: 600;
-    width: 70px;
+    /* width: 70px; */
     text-align: center;
 }
 
@@ -465,7 +485,7 @@ body>div>div>div.section3>h1 {
 .project-frame3 {
     width: 100%;
     height: 250px;
-    background: url(./desktop-design.jpg);
+    background: url(./webth.PNG);
     background-size: cover;
     background-color: #fff;
     border-radius: 7px;
