@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
+    transition: 0.5s ease-in-out;
 }
 
 /* @keyframes pageBackgroundChange {
@@ -901,9 +902,10 @@ body>div>div.section3>div.group5>div.textt>p {
         backdrop-filter: blur(16px) saturate(180%);
         background-color: rgba(189, 16, 224, 0.75);
         left: 70px;
-        top: 17px;
+        top: 22px;
         height: 95vh;
         right: 0;
+
     }
 
     .inpt-flex {
